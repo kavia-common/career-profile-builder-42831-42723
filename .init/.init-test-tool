@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/career-profile-builder-42831-42723/backend_expressjs"
+}
